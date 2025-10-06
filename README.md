@@ -53,3 +53,7 @@ pip install langchain transformers accelerate bitsandbytes duckduckgo-search
 ```
 2. Убедитесь, что у вас поддерживается CUDA.
 3. Запустите Jupyter Notebook (или Google Colab) и откройте `ReAct_Qwen_Agent.ipynb`.
+
+## Связанные проекты
+
+- [LangChain Agents: jsonParser + ReAct with local LLM](https://github.com/QSquirreld/LangChain-Agents-jsonParser-ReAct-with-local-LLM) — ИИ Агенты: ReAct + WebSearch и jsonParser.
